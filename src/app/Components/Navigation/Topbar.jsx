@@ -11,7 +11,7 @@ const Topbar = ({ toggle, setToggle }) => {
           ></i>
         </div>
         <div>
-          <h1>Name</h1>
+          <h1>Student.</h1>
         </div>
         <div className="header__img">
           <img src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light" />
